@@ -96,7 +96,7 @@
   "gamemode.domination.caps": "CRUSADE",
   "gamemode.domination": "Domination",
   "gamemode.domination.description.button": "Play until there is only one legion left, with no time limit.",
-  "gamemode.domination.description": "Wipe all the other legions from the Holy Land There can be only one victor.",
+  "gamemode.domination.description": "Wipe all the other legions from the Holy Land! There can be only one victor.",
   "gamemode.domination.win": "You have defeated all the other legions and unified the Holy Land!",
   "gamemode.domination.loss": "Your last city was lost, you have been defeated.",
   "gamemode.glory.caps": "GLORY",
